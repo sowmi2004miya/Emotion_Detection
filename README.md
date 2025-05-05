@@ -1,0 +1,2 @@
+# multilingual_emotion_detection_in_voice_project
+multilingual emotion detection in voice
